@@ -1,6 +1,6 @@
 Sobre mim:
 
-Tenho experiência na progrmação em JavaScript, Java, HTML, CSS e MySQL. Busco uma oportunidade para atuar no ramo de tecnologia e me desenvolver profissionalmente.
+Tenho experiência na programação em JavaScript, Java, HTML, CSS e MySQL. Busco uma oportunidade para atuar no ramo de tecnologia e me desenvolver profissionalmente.
 
 
 <div style="display: inline_block"><br>
